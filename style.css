@@ -313,7 +313,7 @@ button.toggler-menu{
     position: absolute;
     right: 0;
     width: 50vw;
-    height: 100%;
+    height: 50vh;
     background-size: cover;
     top: 0;
     background-repeat: no-repeat;
